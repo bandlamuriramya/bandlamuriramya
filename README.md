@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=460&lines=Full+Stack+MERN+Developer;Final+Year+CSE+Student;AI+Explorer+%F0%9F%A7%90;Using+Tech+to+Solve+Real+Problems" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 
 - 🎓 Final Year Computer Science & Engineering @ **Manipal University Jaipur (2026)**
