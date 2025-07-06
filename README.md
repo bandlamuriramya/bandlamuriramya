@@ -7,6 +7,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+
 - 🎓 Final Year Computer Science & Engineering @ **Manipal University Jaipur (2026)**
 - 💻 Skilled in **Full Stack Development (MERN)**
 - 🧠 Learning & applying **AI for real-world challenges**
